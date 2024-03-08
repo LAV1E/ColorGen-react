@@ -1,0 +1,17 @@
+
+.container{
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(146, 198, 146);
+ 
+}
+
+button{
+  padding: 10px;
+  border-radius: 5px;
+  background: rgb(82, 120, 82);
+  border: none;
+  color: white;
+  margin: 50px 70px;
+  
+}
